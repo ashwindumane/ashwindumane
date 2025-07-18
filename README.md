@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ashwin Dumane
 **A passionate Software Engineer || Frontend Developer || MERN**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
