@@ -11,18 +11,17 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 
 ### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://healthmate-doctor-appointment-booki.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/HealthMate-Doctor-Appointment-Booking-System)
 
-### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://prepgenius-ai-interview-prep-by-ash.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/PrepGenius---Interview-Prep-AI)
 
-### 💰 PaisaTrack - Expense & Income Tracker [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 💰 PaisaTrack - Expense & Income Tracker [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://paisatrack-smart-realtime-expense-tracker-by-ashwin.pages.dev/signup) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/PaisaTrack-SMART-REALTIME-EXPENSE-TRACKER-)
 
-### 💪 Narwade's Health Club - Fitness Website [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 💪 Narwade's Health Club - Fitness Website [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://ashwindumane-narwade-health-club.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/Narwade-Health-Club)
 
-### 📝 Notexa - Smart Note-Taking App [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 📝 Notexa - Smart Note-Taking App [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://notexa-note-app-by-ashwin-dumane.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/NOTEXA-MERN-Note-Taking-App)
 
-### 🎬 FlipConvert - Browser Media Converter [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 🎬 FlipConvert - Browser Media Converter [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://flip-convert.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/FlipConvert)
 
-### 📄 ConvoWToPDF - Secure Document Converter [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
-
+### 📄 ConvoWToPDF - Secure Document Converter [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://convowordtopdf.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/ConvoWToPDF)
 
 
 # 💻 Tech Stack:
