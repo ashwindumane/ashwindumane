@@ -7,6 +7,9 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com) [![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=rocket&logoColor=white)](https://unstop.com/u/ashwin_dumane)
 
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane) [![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
+
 ## 🚀 Featured Projects
 
 ### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://healthmate-doctor-appointment-booki.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/HealthMate-Doctor-Appointment-Booking-System)
