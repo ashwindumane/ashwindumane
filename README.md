@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 
 ### 🎨 QuickSketch – Collaborative Whiteboard [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://quick-sketch-realtime-white-borad-a.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/QuickSketch-Realtime-WhiteBorad-App- )
 
-### 📊 Tic Tac Toe Mania [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/Tic-Tac-Toe-Mania)
+### 📊 Tic Tac Toe Mania - Realtime Multiplayer Game [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/Tic-Tac-Toe-Mania)
 
 ### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://prepgenius-ai-interview-prep-by-ash.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/PrepGenius---Interview-Prep-AI)
 
