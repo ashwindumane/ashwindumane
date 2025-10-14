@@ -12,63 +12,42 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 ### 🏥 HealthMate - Doctor Appointment Booking System
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-HealthMate-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-HealthMate-black?style=for-the-badge)](your-github-link)
 
-A modern full-stack MERN application for booking doctor appointments online with secure payments and admin management.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Razorpay` `Cloudinary`
 
 ---
 
 ### 🧠 PrepGenius - AI Interview Preparation Platform
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PrepGenius-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PrepGenius-black?style=for-the-badge)](your-github-link)
 
-AI-powered platform for personalized interview preparation with real-time question generation and smart note-taking.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Gemini API`
 
 ---
 
 ### 💰 PaisaTrack - Expense & Income Tracker
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PaisaTrack-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PaisaTrack-black?style=for-the-badge)](your-github-link)
 
-Real-time expense and income tracker with smart dashboards, data visualization, and secure user authentication.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Chart.js` `Tailwind CSS`
 
 ---
 
 ### 💪 Narwade's Health Club - Fitness Website
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Health_Club-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Health_Club-black?style=for-the-badge)](your-github-link)
 
-Fullstack fitness website with BMI calculator, dynamic plans, contact form with email integration, and mobile-first design.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Nodemailer`
 
 ---
 
 ### 📝 Notexa - Smart Note-Taking App
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Notexa-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Notexa-black?style=for-the-badge)](your-github-link)
 
-Full-featured MERN note-taking app with CRUD operations, offline support, search, and responsive UI.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `IndexedDB` `Tailwind CSS`
 
 ---
 
 ### 🎬 FlipConvert - Browser Media Converter
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FlipConvert-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-FlipConvert-black?style=for-the-badge)](your-github-link)
 
-Browser-based media converter using FFmpeg.wasm for image, audio, and video formats. 100% client-side.
-
-**Tech Stack:** `React` `Tailwind CSS` `FFmpeg.wasm` `Framer Motion`
 
 ---
 
 ### 📄 ConvoWToPDF - Secure Document Converter
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ConvoWToPDF-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-ConvoWToPDF-black?style=for-the-badge)](your-github-link)
 
-Secure and efficient Word-to-PDF converter with file upload handling and format preservation.
-
-**Tech Stack:** `React` `Node.js` `Express.js` `Multer`
 
 
 # 💻 Tech Stack:
