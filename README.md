@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 
 ## 🚀 Featured Projects
 
-### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
+### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)]([your-live-link](https://healthmate-doctor-appointment-booki.vercel.app/)) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)]([your-github-link](https://github.com/ashwindumane/HealthMate-Doctor-Appointment-Booking-System))
 
 ### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](your-live-link) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](your-github-link)
 
