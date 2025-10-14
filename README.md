@@ -9,44 +9,19 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 
 ## 🚀 Featured Projects
 
-### 🏥 HealthMate - Doctor Appointment Booking System
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-HealthMate-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-HealthMate-black?style=for-the-badge)](your-github-link)
+### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-HealthMate-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-HealthMate-black)](your-github-link)
 
+### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PrepGenius-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PrepGenius-black)](your-github-link)
 
----
+### 💰 PaisaTrack - Expense & Income Tracker [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PaisaTrack-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PaisaTrack-black)](your-github-link)
 
-### 🧠 PrepGenius - AI Interview Preparation Platform
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PrepGenius-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PrepGenius-black?style=for-the-badge)](your-github-link)
+### 💪 Narwade's Health Club - Fitness Website [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Health_Club-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Health_Club-black)](your-github-link)
 
+### 📝 Notexa - Smart Note-Taking App [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Notexa-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Notexa-black)](your-github-link)
 
----
+### 🎬 FlipConvert - Browser Media Converter [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FlipConvert-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-FlipConvert-black)](your-github-link)
 
-### 💰 PaisaTrack - Expense & Income Tracker
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PaisaTrack-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-PaisaTrack-black?style=for-the-badge)](your-github-link)
-
-
----
-
-### 💪 Narwade's Health Club - Fitness Website
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Health_Club-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Health_Club-black?style=for-the-badge)](your-github-link)
-
-
----
-
-### 📝 Notexa - Smart Note-Taking App
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Notexa-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-Notexa-black?style=for-the-badge)](your-github-link)
-
-
----
-
-### 🎬 FlipConvert - Browser Media Converter
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FlipConvert-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-FlipConvert-black?style=for-the-badge)](your-github-link)
-
-
----
-
-### 📄 ConvoWToPDF - Secure Document Converter
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ConvoWToPDF-blue?style=for-the-badge)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-ConvoWToPDF-black?style=for-the-badge)](your-github-link)
+### 📄 ConvoWToPDF - Secure Document Converter [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ConvoWToPDF-blue)](your-live-link) [![View Code](https://img.shields.io/badge/📁_Source_Code-ConvoWToPDF-black)](your-github-link)
 
 
 
