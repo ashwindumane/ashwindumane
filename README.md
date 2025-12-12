@@ -38,39 +38,6 @@ Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or An
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for)
 
 
-
-
-# 💻 Tech Stack:
-## 💻 Technical Skills
-
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### CI/CD Tools
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%23211F1F.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Configuration Management
-![Ansible](https://img.shields.io/badge/ansible-%2361DCFB.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-### Infrastructure as Code (IaC)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Scripting
-![Bash](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-017393?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashwindumane&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwindumane&theme=dark&hide_border=false)<br/>
