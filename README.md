@@ -1,75 +1,103 @@
-# 💫 Hi 👋, I'm Ashwin Dumane
-**A passionate Software Engineer**
+# Hi, I'm Ashwin Dumane 👋  
+**Software Engineer | DevOps Engineer**
 
-Email Me 👉 ✉️ **ashwindumane0@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I am a passionate Software Engineer with hands-on experience in building scalable web applications, real-time systems, and cloud-native solutions. I enjoy solving real-world problems using modern technologies and continuously learning industry best practices.
 
+📧 **Contact:** ashwindumane0@gmail.com  
+📌 Open to collaboration, projects, and professional opportunities.
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane) [![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/) [![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
+---
 
+## 🌐 Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane)
+[![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
+[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
 
+---
 
 ## 🚀 Featured Projects
 
-### 🏥 HealthMate - Doctor Appointment Booking System [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://healthmate-doctor-appointment-booki.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/HealthMate-Doctor-Appointment-Booking-System)
-
-### 🎨 QuickSketch – Collaborative Whiteboard [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://quick-sketch-realtime-white-borad-a.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/QuickSketch-Realtime-WhiteBorad-App- )
-
-### 📊 Tic Tac Toe Mania - Realtime Multiplayer Game [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/Tic-Tac-Toe-Mania)
-
-### 🧠 PrepGenius - AI Interview Preparation Platform [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://prepgenius-ai-interview-prep-by-ash.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/PrepGenius---Interview-Prep-AI)
-
-### 💰 PaisaTrack - Expense & Income Tracker [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://paisatrack-smart-realtime-expense-tracker-by-ashwin.pages.dev/signup) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/PaisaTrack-SMART-REALTIME-EXPENSE-TRACKER-)
-
-### 💪 Narwade's Health Club - Fitness Website [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://ashwindumane-narwade-health-club.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/Narwade-Health-Club)
-
-### 📝 Notexa - Smart Note-Taking App [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://notexa-note-app-by-ashwin-dumane.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/NOTEXA-MERN-Note-Taking-App)
-
-### 🎬 FlipConvert - Browser Media Converter [![Live Demo](https://img.shields.io/badge/🌐-Live_Project-blue)](https://flip-convert.vercel.app/) [![View Code](https://img.shields.io/badge/💻-Source_Code-black)](https://github.com/ashwindumane/FlipConvert)
-
-
-
-## 💻 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashwindumane&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashwindumane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwindumane&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwindumane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashwindumane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏥 HealthMate – Doctor Appointment Booking System  
+[Live Demo](https://healthmate-doctor-appointment-booki.vercel.app/) • [Source Code](https://github.com/ashwindumane/HealthMate-Doctor-Appointment-Booking-System)  
+A full-stack appointment booking platform enabling seamless doctor–patient interactions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashwindumane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎨 QuickSketch – Collaborative Whiteboard  
+[Live Demo](https://quick-sketch-realtime-white-borad-a.vercel.app/) • [Source Code](https://github.com/ashwindumane/QuickSketch-Realtime-WhiteBorad-App-)  
+A real-time collaborative whiteboard application built for interactive brainstorming.
+
+---
+
+### 🎮 Tic Tac Toe Mania – Real-Time Multiplayer Game  
+[Live Demo](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/) • [Source Code](https://github.com/ashwindumane/Tic-Tac-Toe-Mania)  
+A multiplayer browser-based game with real-time interactions.
+
+---
+
+### 🧠 PrepGenius – AI Interview Preparation Platform  
+[Live Demo](https://prepgenius-ai-interview-prep-by-ash.vercel.app/) • [Source Code](https://github.com/ashwindumane/PrepGenius---Interview-Prep-AI)  
+An AI-powered platform designed to help candidates prepare for technical interviews.
+
+---
+
+### 💰 PaisaTrack – Expense & Income Tracker  
+[Live Demo](https://paisatrack-smart-realtime-expense-tracker-by-ashwin.pages.dev/signup) • [Source Code](https://github.com/ashwindumane/PaisaTrack-SMART-REALTIME-EXPENSE-TRACKER-)  
+A smart real-time finance tracking application for managing expenses and income.
+
+---
+
+### 💪 Narwade's Health Club – Fitness Website  
+[Live Demo](https://ashwindumane-narwade-health-club.vercel.app/) • [Source Code](https://github.com/ashwindumane/Narwade-Health-Club)  
+A modern fitness website showcasing gym services and programs.
+
+---
+
+### 📝 Notexa – Smart Note-Taking Application  
+[Live Demo](https://notexa-note-app-by-ashwin-dumane.vercel.app/) • [Source Code](https://github.com/ashwindumane/NOTEXA-MERN-Note-Taking-App)  
+A MERN-based note-taking app with a clean UI and efficient data management.
+
+---
+
+### 🎬 FlipConvert – Browser-Based Media Converter  
+[Live Demo](https://flip-convert.vercel.app/) • [Source Code](https://github.com/ashwindumane/FlipConvert)  
+A lightweight browser tool for quick media format conversions.
+
+---
+
+## 💻 Technical Skills
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • GitHub Actions • Jenkins • Terraform • Ansible
+
+### Programming & Scripting
+Python • Java • JavaScript • Bash
+
+### Web Development
+HTML5 • CSS3 • React • Node.js
+
+### Monitoring & OS
+Prometheus • Grafana • Linux • Windows
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwindumane&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashwindumane&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwindumane&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashwindumane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 🔝 Top Contributions
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ashwindumane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=ashwindumane&icon=0&color=0)
