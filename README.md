@@ -66,21 +66,8 @@ A MERN-based note-taking app with a clean UI and efficient data management.
 A lightweight browser tool for quick media format conversions.
 
 ---
-
 ## 💻 Technical Skills
-
-### Cloud & DevOps
-AWS • Docker • Kubernetes • GitHub Actions • Jenkins • Terraform • Ansible
-
-### Programming & Scripting
-Python • Java • JavaScript • Bash
-
-### Web Development
-HTML5 • CSS3 • React • Node.js
-
-### Monitoring & OS
-Prometheus • Grafana • Linux • Windows
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,git,ansible,terraform,bash,python,prometheus,grafana,linux" /> </p>
 ---
 
 ## 📊 GitHub Statistics
