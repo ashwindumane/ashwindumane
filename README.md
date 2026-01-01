@@ -1,5 +1,5 @@
 # Hi, I'm Ashwin Dumane 👋  
-**Site Reliability Engineering | DevOps/Cloud Engineer**
+**Site Reliability Engineer | DevOps/Cloud Engineer**
 
 I am a passionate Software Engineer with hands-on experience in building scalable web applications, real-time systems, and cloud-native solutions. I enjoy solving real-world problems using modern technologies and continuously learning industry best practices.
 
