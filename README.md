@@ -3,13 +3,7 @@
 
 I am a passionate Software Engineer with hands-on experience in building scalable web applications, real-time systems, and cloud-native solutions. I enjoy solving real-world problems using modern technologies and continuously learning industry best practices.
 
-📧 **Contact:** ashwindumane0@gmail.com  
-📌 Open to collaboration, projects, and professional opportunities.
-
----
-
-## 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com)
+📧 **Contact:** ashwindumane0@gmail.com   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwindumane0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane)
 [![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
