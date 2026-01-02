@@ -1,13 +1,14 @@
 # Hi, I'm Ashwin Dumane 👋  
 **Site Reliability Engineer | DevOps/Cloud Engineer**
 
-I am a passionate Software Engineer with hands-on experience in building scalable web applications, real-time systems, and cloud-native solutions. I enjoy solving real-world problems using modern technologies and continuously learning industry best practices.
+I am a passionate DevOps Engineer with hands-on experience in designing, automating, and managing scalable, reliable, and secure infrastructure. I specialize in CI/CD pipelines, cloud platforms, infrastructure as code, and system reliability.I enjoy solving real-world operational challenges by improving system performance, availability, and deployment efficiency, while continuously learning and applying modern DevOps and SRE best practices.
 
 📧 **Contact:** ashwindumane0@gmail.com   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashwindumane0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane)
+[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
 [![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
-[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
+
 
 ## 💻 Technical Skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,git,ansible,terraform,bash,python,prometheus,grafana,linux" /> </p>
