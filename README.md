@@ -11,7 +11,7 @@ I am a passionate DevOps Engineer with hands-on experience in designing, automat
 
 
 ## 💻 Technical Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,git,ansible,terraform,bash,python,prometheus,grafana,linux" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,githubactions,jenkins,git,ansible,terraform,bash,python,prometheus,grafana" /> </p>
 
 ## 🚀 Featured Projects
 
