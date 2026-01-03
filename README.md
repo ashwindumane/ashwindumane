@@ -3,11 +3,15 @@
 
 I am a passionate DevOps Engineer with hands-on experience in designing, automating, and managing scalable, reliable, and secure infrastructure. I specialize in CI/CD pipelines, cloud platforms, infrastructure as code, and system reliability.I enjoy solving real-world operational challenges by improving system performance, availability, and deployment efficiency, while continuously learning and applying modern DevOps and SRE best practices.
 
-📧 **Contact:** ashwindumane0@gmail.com   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashwindumane0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane)
-[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
-[![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
+📧 **Contact:** ashwindumane0@gmail.com  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ashwindumane0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwindumane)
+[![DEV Community](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashwin_dumane)
+[![Unstop](https://img.shields.io/badge/Unstop-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)](https://unstop.com/u/ashwin_dumane)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashwin_kshatriya_/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ashwin-dumane)
+
 
 
 ## 💻 Technical Skills
